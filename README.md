@@ -5,7 +5,7 @@
 <h2>GitHUB Link: https://github.com/Krishna-1996/NetFlix_Clone_Capstone_Project</h2>
 <h2>Hosting URL: https://react-native-netflix-clo-184da.web.app</h2>
 
-<h4>In the project directory, you can run:</h4>
+<h3>In the project directory, you can run:</h3>
 
 ### `npm start`
 
